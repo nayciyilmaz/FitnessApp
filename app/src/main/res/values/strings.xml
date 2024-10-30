@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">One Week Fitness</string>
+
+    <string name="bacak_title">Bugün Bacak Antremanı</string>
+    <string name="sirt_title">Bugün Sırt Antremanı</string>
+    <string name="gogus_title">Bugün Göğüs Antremanı</string>
+    <string name="pazu_title">Bugün Pazu Antremanı</string>
+    <string name="arka_kol_title">Bugün Arka Kol Antremanı</string>
+    <string name="karin_title">Bugün Karın Antremanı</string>
+    <string name="omuz_title">Bugün Omuz Antremanı</string>
+
+    <string name="bacak_text">Bugün 4 set 10 tekrardan Squat yap. İkinci hareket olarak 3 set 12 tekrardan Leg Press yap. Son hareket olarak 5 set 8 tekrardan Romanian Deadlift yap ve günü bitir</string>
+    <string name="sirt_text">Bugün 3 set 12 tekrardan Lat Pull Down yap.İkinci hareket olarak 4 set 10 tekrardan Barberll Deadlift yap.Son olarak biraz dinlen ve çekebildiğin kadar barfiks çek</string>
+    <string name="gogus_text">Bugun 4 set 12 tekrardan Bench Press yap.İkinci hareket olarak 3 set 10 tekrardan Decline Press yap. Son olarak 3 set 10 tekrardan Dumblee Fly yap ve günü bitir</string>
+    <string name="pazu_text">Bugun 4 set 10 tekrardan Hammel Curl yap.İkinci hareket olarak 4 set 10 tekrardan Preacher Curl yap. Son olarak 2 set 10 tekrardan Barbell curl yap</string>
+    <string name="arka_kol_text">Bugun 4 set 12 tekrardan Cable Pressdown yap.İkinci hareket olarak yapabildiğin kadar Lying Triceps Extension yap ve antremanı bitir.</string>
+    <string name="karin_text">Bugun yapabildiğin kadar Plank yap ve biraz dinlen ardından çekebildiğin kadar mekik çek.</string>
+    <string name="omuz_text">Bugun 4 set 15 tekrardan Overhead Press yap ve yapabildiğin kadar Dips yap</string>
+</resources>
