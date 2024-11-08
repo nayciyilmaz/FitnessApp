@@ -1,3 +1,5 @@
+![Logo](https://github.com/nayciyilmaz/FitnessApp/blob/main/ekrann.png?raw=true)
+
 ## Features
 
 - **Modern UI Design**: A modern and user-friendly design using Material3 components.
